@@ -1,0 +1,6 @@
+<nav>
+    <view name="table_of_contents" default='true'/>
+    <view name="shakespeare"/>
+    <view name="form"/>
+    <view name="flashtimeline"/>
+</nav>

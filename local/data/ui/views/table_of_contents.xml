@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dashboard>
+  <label>Table of Contents</label>
+  <row>
+    <table>
+      <searchName>Table of Contents</searchName>
+      <title>The Project Gutenberg EBook of The Complete Works of William Shakespeare, by 
+William Shakespeare</title>
+      <option name="count">50</option>
+      <option name="displayRowNumbers">false</option>
+      <option name="drilldown">all</option>
+    </table>
+  </row>
+</dashboard>

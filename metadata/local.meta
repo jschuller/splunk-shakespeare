@@ -1,0 +1,134 @@
+[app/ui]
+version = 5.0.1
+modtime = 1357744798.019729000
+
+[app/launcher]
+version = 5.0.1
+modtime = 1357744798.024702000
+
+[views/shakespeare]
+owner = admin
+version = 5.0.1
+modtime = 1361316845.285656000
+
+[viewstates/flashtimeline%3Ahchsptk7]
+owner = nobody
+version = 5.0.1
+modtime = 1359388336.889933000
+
+[savedsearches/shakespeare%20top%2010%20words%20bar]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515369.756804000
+
+[viewstates/flashtimeline%3Ahchstpj1]
+owner = nobody
+version = 5.0.1
+modtime = 1359388518.329721000
+
+[savedsearches/shakespeare%20top%2010%20words]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515361.780460000
+
+[viewstates/flashtimeline%3Ahchsvfk2]
+owner = nobody
+version = 5.0.1
+modtime = 1359388598.667832000
+
+[savedsearches/shakespeare%20top%2010%20punct]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515345.108612000
+
+[viewstates/flashtimeline%3Ahchszavh]
+owner = nobody
+version = 5.0.1
+modtime = 1359388779.223402000
+
+[savedsearches/shakespeare%20top%2010%20punct%20pie]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515353.944220000
+
+[viewstates/flashtimeline%3Ahcht2g1i]
+owner = nobody
+version = 5.0.1
+modtime = 1359388925.891183000
+
+[savedsearches/shakespeare%20alas%20poor]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515273.983058000
+
+[viewstates/flashtimeline%3Ahcht69n5]
+owner = nobody
+version = 5.0.1
+modtime = 1359389104.231387000
+
+[savedsearches/shakespeare%20alas%20poor%20count]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515282.853090000
+
+[nav/default]
+version = 5.0.1
+modtime = 1361320347.268667000
+
+[viewstates/flashtimeline%3Ahchyzz8d]
+owner = nobody
+version = 5.0.1
+modtime = 1359398888.540737000
+
+[viewstates/flashtimeline%3Ahci228p7]
+owner = nobody
+version = 5.0.1
+modtime = 1359404033.164444000
+
+[indexes/shakespeare]
+version = 5.0.1
+modtime = 1359406157.976212000
+
+[viewstates/flashtimeline%3Ahcjtjxc1]
+owner = nobody
+version = 5.0.1
+modtime = 1359510674.144615000
+
+[savedsearches/shakespeare%20table%20of%20publications]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1359515318.579128000
+
+[viewstates/flashtimeline%3Ahcjtyxwp]
+owner = nobody
+version = 5.0.1
+modtime = 1359511374.395506000
+
+[savedsearches/shakespeare%20table%20of%20publications%20with%20word%20count]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1361316820.623965000
+
+[viewstates/flashtimeline%3Ahd3hummf]
+owner = nobody
+version = 5.0.1
+modtime = 1360700341.461636000
+
+[views/table_of_contents]
+owner = admin
+version = 5.0.1
+modtime = 1360700682.789806000
+
+[savedsearches/Table%20of%20Contents]
+export = none
+owner = admin
+version = 5.0.1
+modtime = 1360700383.467098000

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dashboard>
+  <label>Shakespeare's Stats</label>
+  <row>
+    <table>
+      <searchName>shakespeare table of publications with word count</searchName>
+      <title>Shakespeare table of publications with line count</title>
+      <option name="count">10</option>
+      <option name="displayRowNumbers">true</option>
+    </table>
+  </row>
+  <row>
+    <table>
+      <searchName>shakespeare top 10 words</searchName>
+      <title>Top 10 words</title>
+      <option name="count">50</option>
+      <option name="displayRowNumbers">true</option>
+    </table>
+    <chart>
+      <searchName>shakespeare top 10 words bar</searchName>
+      <title>Top 10 words</title>
+      <option name="charting.chart">bar</option>
+      <option name="charting.chart.nullValueMode">gaps</option>
+      <option name="charting.chart.stackMode">default</option>
+      <option name="charting.layout.splitSeries">false</option>
+      <option name="charting.legend.placement">right</option>
+    </chart>
+  </row>
+  <row>
+    <table>
+      <searchName>shakespeare top 10 punct</searchName>
+      <title>Top 10 punctuation</title>
+      <option name="count">50</option>
+      <option name="displayRowNumbers">true</option>
+    </table>
+    <chart>
+      <searchName>shakespeare top 10 punct pie</searchName>
+      <title>Top 10 punctuation</title>
+      <option name="charting.chart">pie</option>
+      <option name="charting.chart.nullValueMode">gaps</option>
+      <option name="charting.chart.stackMode">default</option>
+      <option name="charting.layout.splitSeries">false</option>
+      <option name="charting.legend.placement">right</option>
+    </chart>
+  </row>
+  <row>
+    <single>
+      <searchName>shakespeare alas poor count</searchName>
+      <title>"Alas, poor" count</title>
+    </single>
+  </row>
+  <row>
+    <table>
+      <searchName>shakespeare alas poor</searchName>
+      <title>"Alas poor" .... ?</title>
+      <option name="count">50</option>
+      <option name="displayRowNumbers">true</option>
+    </table>
+  </row>
+</dashboard>
